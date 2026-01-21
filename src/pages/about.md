@@ -3,35 +3,35 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+# Leonard Ramminger
 
-![Astro Paper](public/astropaper-og.jpg)
+Mein Name ist Leonard Ramminger.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Willkommen in meiner ganz eigenen Welt, in der es sich um viele dinge im Leben dreht.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+Hier geht es zum einen darum, meine Gedanken zu Projekten oder bestimmten Themenbereichen zu Teilen, als auch anderen etwas neues beizubringen. 
 
-## Features
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+## In diesem Blog
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Dieser Blog wird sich allgemein mit den folgenden Themen befassen:
 
-and so much more.
+- Programmierung
+- CLI Tools
+- Effizienz
+- Relaxen
+- Rankings
+- Psychologie
+- Metalearning
+- Philosofie
 
-## Show your support
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+## Support
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
+Wenn dich diese Themen interessieren bist du hier Herzlichst willkommen. Um nichts zu verpassen kannst du gerne meinem RSS Feed folgen und bleibst so immer auf dem laufenden.
 
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
+Falls du die Projekte interessant findest, kannst du gerne auf Github das Projekt suchen, welches dir am besten gefällt und mit im [Coditary Team](https://github.com/Coditary) arbeiten.
 
-Kyay zuu! 🙏🏼
+
+Viel Spaß und freude weiterhin auf meinem Blog!!!
+
