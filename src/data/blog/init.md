@@ -1,16 +1,15 @@
 ---
 author: Leonard Ramminger
-pubDatetime:
-modDatetime:
-title:
-slug:
+pubDatetime: 2026-01-21T22:45:00Z
+title: Initialer Post
+slug: init-post
 featured: true
 draft: true
 tags:
-  - 
-description: 
+  - init
+description: Mein erster Entwurf.
 ---
 
 # Überschrift
 
-Text
+Dein Text hier...
