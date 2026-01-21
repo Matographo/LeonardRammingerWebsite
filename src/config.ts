@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://matographo.github.io", // replace this with your deployed domain
+  website: "https://matographo.github.io/LeonardRammingerWebsite",
   author: "Leonard Ramminger",
   profile: "https://ramminger.dev/",
   desc: "Gedanken und Konzepte zu Software-Engineering, Psychologie, Metalearning, Effizienz und Flow",
