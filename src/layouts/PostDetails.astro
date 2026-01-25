@@ -67,19 +67,29 @@ const layoutProps = {
   scrollSmooth: true,
 };
 
-/* ========== Prev/Next Posts ========== */
+/* ========== Prev/Next Posts DEBUG ========== */
 
-const allPosts = posts.map(({ data: { title }, id, filePath }) => ({
+const allPostsWithDetails = posts.map(({ data, id, filePath }) => ({
   id,
-  title,
+  title: data.title,
   filePath,
 }));
 
-const currentPostIndex = allPosts.findIndex(a => a.id === post.id);
+// Zeigt dir im Terminal beim Laden der Seite alle IDs an
+console.log("--- DEBUG START ---");
+console.log("Deine aktuelle Post ID:", post.id);
+console.log("Gewünschte Next-ID aus YAML:", post.data.next);
+console.log("Verfügbare IDs im System:", allPostsWithDetails.map(p => p.id));
+console.log("--- DEBUG END ---");
 
-const prevPost = currentPostIndex !== 0 ? allPosts[currentPostIndex - 1] : null;
-const nextPost =
-  currentPostIndex !== allPosts.length ? allPosts[currentPostIndex + 1] : null;
+const findPostById = (manualId) => {
+  if (!manualId) return null;
+  // Wir vergleichen hier absolut strikt
+  return allPostsWithDetails.find(p => p.id === manualId);
+};
+
+const prevPost = findPostById(post.data.prev);
+const nextPost = findPostById(post.data.next);
 ---
 
 <Layout {...layoutProps}>
