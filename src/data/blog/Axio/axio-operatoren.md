@@ -172,7 +172,7 @@ Dieser ist jedoch äquivalent als würde kein Vorzeichen verwendet werden.
 5==5 && 3==4   => false
 ```
 
-### Boolisches ODER (&&)
+### Boolisches ODER (||)
 
 ```
 5==5 || 4==4   => true
