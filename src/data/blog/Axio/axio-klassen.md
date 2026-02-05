@@ -3,7 +3,7 @@ author: Leonard Ramminger
 pubDatetime: 2026-01-26T00:30:10Z
 title: Axio Klassen
 slug: axio-klassen
-featured: true
+featured: false
 draft: false
 tags:
   - Programmieren

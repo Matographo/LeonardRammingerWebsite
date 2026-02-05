@@ -3,7 +3,7 @@ author: Leonard Ramminger
 pubDatetime: 2026-01-26T00:30:03Z
 title: Axio Variablen
 slug: axio-variablen
-featured: true
+featured: false
 draft: false
 tags:
   - Programmieren

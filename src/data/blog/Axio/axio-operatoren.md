@@ -4,7 +4,7 @@ pubDatetime: 2026-01-26T00:30:01.761Z
 modDatetime: 2026-01-26T21:53:00.761Z
 title: Axio Operatoren
 slug: axio-operatoren
-featured: true
+featured: false
 draft: false
 tags:
   - Programmieren

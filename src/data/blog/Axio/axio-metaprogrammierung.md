@@ -3,7 +3,7 @@ author: Leonard Ramminger
 pubDatetime: 2026-01-26T00:30:07Z
 title: Axio Metaprogrammierung
 slug: axio-metaprogrammierung
-featured: true
+featured: false
 draft: false
 tags:
   - Programmieren

@@ -3,7 +3,7 @@ author: Leonard Ramminger
 pubDatetime: 2026-01-26T00:30:11Z
 title: Axio Vererbung
 slug: axio-vererbung
-featured: true
+featured: false
 draft: false
 tags:
   - Programmieren

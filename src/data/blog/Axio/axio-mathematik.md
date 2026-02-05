@@ -3,7 +3,7 @@ author: Leonard Ramminger
 pubDatetime: 2026-01-26T00:30:08Z
 title: Axio Mathematik
 slug: axio-mathematik
-featured: true
+featured: false
 draft: false
 tags:
   - Programmieren
