@@ -1,6 +1,6 @@
 ---
 author: Leonard Ramminger
-pubDatetime: 2026-01-26T00:30:02Z
+pubDatetime: 2026-02-18T15:40:02Z
 title: Axio Datentypen
 slug: axio-datentypen
 featured: false
